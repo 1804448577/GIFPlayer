@@ -1,0 +1,14 @@
+﻿  Reading Qt configuration (E:/Qt/QT5.15.2/bin/qmake)
+  mainWindow.cpp
+  FunctionStudyWidget.cpp
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  qrc_FunctionStudy.cpp
+  moc_FunctionStudy.cpp
+  moc_FunctionStudyWidget.cpp
+  moc_mainWindow.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  FunctionStudy.vcxproj -> C:\Users\dell\Desktop\myProj\FunctionStudy-master\gitPlayer\FunctionStudy\x64\Debug\FunctionStudy.exe
